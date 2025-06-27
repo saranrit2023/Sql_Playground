@@ -18,7 +18,7 @@ An intentionally vulnerable web app designed to demonstrate SQL Injection (SQLi)
 
 ## 🔧 Installation
 ```bash
-
+git clone https://github.com/saranrit2023/Sql_Playground.git
 cd Sql_playground
 🔄 Run the App
 python run.py
